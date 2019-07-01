@@ -1,59 +1,57 @@
-µÚÒ»²½£º½¨Á¢git²Ö¿â
-cdµ½ÄãµÄ±¾µØÏîÄ¿¸ùÄ¿Â¼ÏÂ£¬Ö´ĞĞgitÃüÁî£º
+ç¬¬ä¸€æ­¥ï¼šå»ºç«‹gitä»“åº“
+cdåˆ°ä½ çš„æœ¬åœ°é¡¹ç›®æ ¹ç›®å½•ä¸‹ï¼Œæ‰§è¡Œgitå‘½ä»¤ï¼š
 git init
 
-µÚ¶ş²½£º½«ÏîÄ¿µÄËùÓĞÎÄ¼şÌí¼Óµ½²Ö¿âÖĞ
+ç¬¬äºŒæ­¥ï¼šå°†é¡¹ç›®çš„æ‰€æœ‰æ–‡ä»¶æ·»åŠ åˆ°ä»“åº“ä¸­
 git add .
-Èç¹ûÏëÌí¼ÓÄ³¸öÌØ¶¨µÄÎÄ¼ş£¬Ö»Ğè°Ñ.»»³ÉÌØ¶¨µÄÎÄ¼şÃû¼´¿É
+å¦‚æœæƒ³æ·»åŠ æŸä¸ªç‰¹å®šçš„æ–‡ä»¶ï¼Œåªéœ€æŠŠ.æ¢æˆç‰¹å®šçš„æ–‡ä»¶åå³å¯
 
-µÚÈı²½£º½«addµÄÎÄ¼şcommitµ½²Ö¿â
-git commit -m "×¢ÊÍÓï¾ä"
+ç¬¬ä¸‰æ­¥ï¼šå°†addçš„æ–‡ä»¶commitåˆ°ä»“åº“
+git commit -m "æ³¨é‡Šè¯­å¥"
 
-µÚËÄ²½£ºÈ¥githubÉÏ´´½¨×Ô¼ºµÄRepositoryÄÃµ½httpµØÖ·»òssh
+ç¬¬å››æ­¥ï¼šå»githubä¸Šåˆ›å»ºè‡ªå·±çš„Repositoryæ‹¿åˆ°httpåœ°å€æˆ–ssh
 
-µÚÎå²½£ºÖØµãÀ´ÁË£¬½«±¾µØµÄ²Ö¿â¹ØÁªµ½githubÉÏ
+ç¬¬äº”æ­¥ï¼šé‡ç‚¹æ¥äº†ï¼Œå°†æœ¬åœ°çš„ä»“åº“å…³è”åˆ°githubä¸Š
 git remote add origin https://github.com/hanhailong/CustomRatingBar
-ºóÃæµÄhttpsÁ´½ÓµØÖ·»»³ÉÄã×Ô¼ºµÄ²Ö¿âurlµØÖ·
+åé¢çš„httpsé“¾æ¥åœ°å€æ¢æˆä½ è‡ªå·±çš„ä»“åº“urlåœ°å€
 
-µÚÁù²½£ºÉÏ´«githubÖ®Ç°£¬ÒªÏÈpullÒ»ÏÂ£¬Ö´ĞĞÈçÏÂÃüÁî£º
+ç¬¬å…­æ­¥ï¼šä¸Šä¼ githubä¹‹å‰ï¼Œè¦å…ˆpullä¸€ä¸‹ï¼Œæ‰§è¡Œå¦‚ä¸‹å‘½ä»¤ï¼š
 git pull origin master
-ÇÃ»Ø³µ
+æ•²å›è½¦
 
-µÚÆß²½£¬Ò²¾ÍÊÇ×îºóÒ»²½£¬ÉÏ´«´úÂëµ½githubÔ¶³Ì²Ö¿â
+ç¬¬ä¸ƒæ­¥ï¼Œä¹Ÿå°±æ˜¯æœ€åä¸€æ­¥ï¼Œä¸Šä¼ ä»£ç åˆ°githubè¿œç¨‹ä»“åº“
 git push -u origin master
-Ö´ĞĞÍêºó£¬Èç¹ûÃ»ÓĞÒì³££¬µÈ´ıÖ´ĞĞÍê¾ÍÉÏ´«³É¹¦ÁË£¬ÖĞ¼ä¿ÉÄÜ»áÈÃÄãÊäÈëUsernameºÍPassword£¬ÄãÖ»ÒªÊäÈëgithubµÄÕËºÅºÍÃÜÂë¾ÍĞĞÁË
+æ‰§è¡Œå®Œåï¼Œå¦‚æœæ²¡æœ‰å¼‚å¸¸ï¼Œç­‰å¾…æ‰§è¡Œå®Œå°±ä¸Šä¼ æˆåŠŸäº†ï¼Œä¸­é—´å¯èƒ½ä¼šè®©ä½ è¾“å…¥Usernameå’ŒPasswordï¼Œä½ åªè¦è¾“å…¥githubçš„è´¦å·å’Œå¯†ç å°±è¡Œäº†
 
-Ò»Ğ©¿ÉÄÜÓöµ½µÄÎÊÌâ½â¾ö£º
-Èç¹ûÊäÈë$ git remote add origin git@github.com:djqiang£¨githubÕÊºÅÃû£©/gitdemo£¨ÏîÄ¿Ãû£©.git
-ÌáÊ¾³ö´íĞÅÏ¢£ºfatal: remote origin already exists.
-½â¾ö°ì·¨ÈçÏÂ£º
-1¡¢ÏÈÊäÈë$ git remote rm origin
-2¡¢ÔÙÊäÈë$ git remote add origin git@github.com:djqiang/gitdemo.git ¾Í²»»á±¨´íÁË£¡
-3¡¢Èç¹ûÊäÈë$ git remote rm origin »¹ÊÇ±¨´íµÄ»°£¬error: Could not remove config section ¡®remote.origin¡¯. ÎÒÃÇĞèÒªĞŞ¸ÄgitconfigÎÄ¼şµÄÄÚÈİ
-4¡¢ÕÒµ½ÄãµÄgithubµÄ°²×°Â·¾¶£¬ÎÒµÄÊÇC:\Users\ASUS\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\etc
-5¡¢ÕÒµ½Ò»¸öÃûÎªgitconfigµÄÎÄ¼ş£¬´ò¿ªËü°ÑÀïÃæµÄ[remote "origin"]ÄÇÒ»ĞĞÉ¾µô¾ÍºÃÁË£¡
-Èç¹ûÊäÈë$ ssh -T git@github.com
-³öÏÖ´íÎóÌáÊ¾£ºPermission denied (publickey).ÒòÎªĞÂÉú³ÉµÄkey²»ÄÜ¼ÓÈëssh¾Í»áµ¼ÖÂÁ¬½Ó²»ÉÏgithub¡£
-½â¾ö°ì·¨ÈçÏÂ£º
-1¡¢ÏÈÊäÈë$ ssh-agent£¬ÔÙÊäÈë$ ssh-add ~/.ssh/id_key£¬ÕâÑù¾Í¿ÉÒÔÁË¡£
-2¡¢Èç¹û»¹ÊÇ²»ĞĞµÄ»°£¬ÊäÈëssh-add ~/.ssh/id_key ÃüÁîºó³öÏÖ±¨´íCould not open a connection to your authentication agent.½â¾ö·½·¨ÊÇkeyÓÃGit GuiµÄssh¹¤¾ßÉú³É£¬ÕâÑùÉú³ÉµÄÊ±ºòkey¾ÍÖ±½Ó±£´æÔÚsshÖĞÁË£¬²»ĞèÒªÔÙssh-addÃüÁî¼ÓÈëÁË£¬ÆäËüµÄuser£¬tokenµÈÅäÖÃ¶¼ÓÃÃüÁîĞĞÀ´×ö¡£
-3¡¢×îºÃ¼ì²éÒ»ÏÂÔÚÄã¸´ÖÆid_rsa.pubÎÄ¼şµÄÄÚÈİÊ±ÓĞÃ»ÓĞ²úÉú¶àÓàµÄ¿Õ¸ñ»ò¿ÕĞĞ£¬ÓĞĞ©±à¼­Æ÷»á°ïÄãÌí¼ÓÕâĞ©µÄ¡£
-Èç¹ûÊäÈë$ git push origin master
-ÌáÊ¾³ö´íĞÅÏ¢£ºerror:failed to push som refs to ¡­¡­.
-½â¾ö°ì·¨ÈçÏÂ£º
-1¡¢ÏÈÊäÈë$ git pull origin master //ÏÈ°ÑÔ¶³Ì·şÎñÆ÷githubÉÏÃæµÄÎÄ¼şÀ­ÏÂÀ´
-2¡¢ÔÙÊäÈë$ git push origin master
-3¡¢Èç¹û³öÏÖ±¨´í fatal: Couldn¡¯t find remote ref master»òÕßfatal: ¡®origin¡¯ does not appear to be a git repositoryÒÔ¼°fatal: Could not read from remote repository.
-4¡¢ÔòĞèÒªÖØĞÂÊäÈë$ git remote add origingit@github.com:djqiang/gitdemo.git
-Ê¹ÓÃgitÔÚ±¾µØ´´½¨Ò»¸öÏîÄ¿µÄ¹ı³Ì
-$ makdir ~/hello-world //´´½¨Ò»¸öÏîÄ¿hello-world
-$ cd ~/hello-world //´ò¿ªÕâ¸öÏîÄ¿
-$ git init //³õÊ¼»¯
+ä¸€äº›å¯èƒ½é‡åˆ°çš„é—®é¢˜è§£å†³ï¼š
+å¦‚æœè¾“å…¥$ git remote add origin git@github.com:djqiangï¼ˆgithubå¸å·åï¼‰/gitdemoï¼ˆé¡¹ç›®åï¼‰.git
+æç¤ºå‡ºé”™ä¿¡æ¯ï¼šfatal: remote origin already exists.
+è§£å†³åŠæ³•å¦‚ä¸‹ï¼š
+1ã€å…ˆè¾“å…¥$ git remote rm origin
+2ã€å†è¾“å…¥$ git remote add origin git@github.com:djqiang/gitdemo.git å°±ä¸ä¼šæŠ¥é”™äº†ï¼
+3ã€å¦‚æœè¾“å…¥$ git remote rm origin è¿˜æ˜¯æŠ¥é”™çš„è¯ï¼Œerror: Could not remove config section â€˜remote.originâ€™. æˆ‘ä»¬éœ€è¦ä¿®æ”¹gitconfigæ–‡ä»¶çš„å†…å®¹
+4ã€æ‰¾åˆ°ä½ çš„githubçš„å®‰è£…è·¯å¾„ï¼Œæˆ‘çš„æ˜¯C:\Users\ASUS\AppData\Local\GitHub\PortableGit_ca477551eeb4aea0e4ae9fcd3358bd96720bb5c8\etc
+5ã€æ‰¾åˆ°ä¸€ä¸ªåä¸ºgitconfigçš„æ–‡ä»¶ï¼Œæ‰“å¼€å®ƒæŠŠé‡Œé¢çš„[remote "origin"]é‚£ä¸€è¡Œåˆ æ‰å°±å¥½äº†ï¼
+å¦‚æœè¾“å…¥$ ssh -T git@github.com
+å‡ºç°é”™è¯¯æç¤ºï¼šPermission denied (publickey).å› ä¸ºæ–°ç”Ÿæˆçš„keyä¸èƒ½åŠ å…¥sshå°±ä¼šå¯¼è‡´è¿æ¥ä¸ä¸Šgithubã€‚
+è§£å†³åŠæ³•å¦‚ä¸‹ï¼š
+1ã€å…ˆè¾“å…¥$ ssh-agentï¼Œå†è¾“å…¥$ ssh-add ~/.ssh/id_keyï¼Œè¿™æ ·å°±å¯ä»¥äº†ã€‚
+2ã€å¦‚æœè¿˜æ˜¯ä¸è¡Œçš„è¯ï¼Œè¾“å…¥ssh-add ~/.ssh/id_key å‘½ä»¤åå‡ºç°æŠ¥é”™Could not open a connection to your authentication agent.è§£å†³æ–¹æ³•æ˜¯keyç”¨Git Guiçš„sshå·¥å…·ç”Ÿæˆï¼Œè¿™æ ·ç”Ÿæˆçš„æ—¶å€™keyå°±ç›´æ¥ä¿å­˜åœ¨sshä¸­äº†ï¼Œä¸éœ€è¦å†ssh-addå‘½ä»¤åŠ å…¥äº†ï¼Œå…¶å®ƒçš„userï¼Œtokenç­‰é…ç½®éƒ½ç”¨å‘½ä»¤è¡Œæ¥åšã€‚
+3ã€æœ€å¥½æ£€æŸ¥ä¸€ä¸‹åœ¨ä½ å¤åˆ¶id_rsa.pubæ–‡ä»¶çš„å†…å®¹æ—¶æœ‰æ²¡æœ‰äº§ç”Ÿå¤šä½™çš„ç©ºæ ¼æˆ–ç©ºè¡Œï¼Œæœ‰äº›ç¼–è¾‘å™¨ä¼šå¸®ä½ æ·»åŠ è¿™äº›çš„ã€‚
+å¦‚æœè¾“å…¥$ git push origin master
+æç¤ºå‡ºé”™ä¿¡æ¯ï¼šerror:failed to push som refs to â€¦â€¦.
+è§£å†³åŠæ³•å¦‚ä¸‹ï¼š
+1ã€å…ˆè¾“å…¥$ git pull origin master //å…ˆæŠŠè¿œç¨‹æœåŠ¡å™¨githubä¸Šé¢çš„æ–‡ä»¶æ‹‰ä¸‹æ¥
+2ã€å†è¾“å…¥$ git push origin master
+3ã€å¦‚æœå‡ºç°æŠ¥é”™ fatal: Couldnâ€™t find remote ref masteræˆ–è€…fatal: â€˜originâ€™ does not appear to be a git repositoryä»¥åŠfatal: Could not read from remote repository.
+4ã€åˆ™éœ€è¦é‡æ–°è¾“å…¥$ git remote add origingit@github.com:djqiang/gitdemo.git
+ä½¿ç”¨gitåœ¨æœ¬åœ°åˆ›å»ºä¸€ä¸ªé¡¹ç›®çš„è¿‡ç¨‹
+$ makdir ~/hello-world //åˆ›å»ºä¸€ä¸ªé¡¹ç›®hello-world
+$ cd ~/hello-world //æ‰“å¼€è¿™ä¸ªé¡¹ç›®
+$ git init //åˆå§‹åŒ–
 $ touch README
-$ git add README //¸üĞÂREADMEÎÄ¼ş
-$ git commit -m ¡®first commit¡¯ //Ìá½»¸üĞÂ£¬²¢×¢ÊÍĞÅÏ¢¡°first commit¡±
-$ git remote add origin git@github.com:defnngj/hello-world.git //Á¬½ÓÔ¶³ÌgithubÏîÄ¿
-$ git push -u origin master //½«±¾µØÏîÄ¿¸üĞÂµ½githubÏîÄ¿ÉÏÈ¥
-=======
-æ‰§è¡Œå®Œåï¼Œå¦‚æœæ²¡æœ‰å¼‚å¸¸ï¼Œç­‰å¾…æ‰§è¡Œå®Œå°±ä¸Šä¼ æˆåŠŸäº†ï¼Œä¸­é—´å¯èƒ½ä¼šè®©ä½ è¾“å…¥Usernameå’ŒPasswordï¼Œä½ åªè¦è¾“å…¥githubçš„è´¦å·å’Œå¯†ç å°±è¡Œäº?
->>>>>>> e23fb144cb869105d3c21fc0dcccc3e14e422365
+$ git add README //æ›´æ–°READMEæ–‡ä»¶
+$ git commit -m â€˜first commitâ€™ //æäº¤æ›´æ–°ï¼Œå¹¶æ³¨é‡Šä¿¡æ¯â€œfirst commitâ€
+$ git remote add origin git@github.com:defnngj/hello-world.git //è¿æ¥è¿œç¨‹githubé¡¹ç›®
+$ git push -u origin master //å°†æœ¬åœ°é¡¹ç›®æ›´æ–°åˆ°githubé¡¹ç›®ä¸Šå»
+
