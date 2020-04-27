@@ -1,0 +1,120 @@
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 11 (A2223) 128GB 黑色 移动联通电信4G手机 双卡双待', 'price': '5999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI Mate 30 Pro 麒麟990旗舰芯片OLED环幕屏双4000万徕卡电影四摄8GB+128GB亮黑色4G全网通', 'price': '5799.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 11 Pro Max (A2220) 256GB 暗夜绿色 移动联通电信4G手机 双卡双待', 'price': '10899.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI Mate 30 麒麟990旗舰芯片4000万超感光徕卡影像双超级快充屏内指纹8G+128GB星河银4G全网通版', 'price': '4299.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': '京品手机\nApple iPhone XR (A2108) 128GB 黑色 移动联通电信4G手机 双卡双待', 'price': '5099.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀20 李现同款 4800万超广角AI四摄 3200W美颜自拍 麒麟Kirin980全网通版8GB+128GB 蓝水翡翠 全面屏', 'price': '2489.00'}
+{'shopname': '一加手机京东自营官方旗舰店', 'title': '京品手机\n一加 OnePlus 7 骁龙855旗舰性能 4800万超清双摄 8GB+256GB 曜岩灰 全面屏拍照智能游戏', 'price': '2799.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '京品手机\n华为 HUAWEI P30 超感光徕卡三摄麒麟980AI智能芯片全面屏屏内指纹版8GB+128GB天空之境全网通双4G', 'price': '3988.00'}
+{'shopname': '一加手机京东自营官方旗舰店', 'title': '京品手机\n一加 OnePlus 7 Pro 2K+90Hz 流体屏 骁龙855旗舰 4800万超广角三摄 8GB+256GB 星雾蓝 全面屏拍照游戏', 'price': '4299.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 11 Pro (A2217) 256GB 深空灰色 移动联通电信4G手机 双卡双待', 'price': '9999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI P30 Pro 超感光徕卡四摄10倍混合变焦麒麟980芯片屏内指纹 8GB+128GB天空之境全网通版双4G', 'price': '4988.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '【新品抢购】Redmi Note8 4800万全场景四摄 4000mAh长续航 高通骁龙665 18W快充 小金刚品质保证 4GB+64GB 梦幻蓝 游戏智能 小米 红米', 'price': '999.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀9X 麒麟810 4000mAh超强续航 4800万超清夜拍 6.59英寸升降全面屏 全网通6GB+64GB 魅海蓝', 'price': '1599.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '三星 Galaxy Note10+ 5G手机 骁龙855 智能S Pen 12GB+256GB 莫奈彩 双卡双待 游戏', 'price': '7999.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': '京品手机\nApple iPhone 7 Plus (A1661) 128G 黑色 移动联通电信4G手机', 'price': '3599.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 8 Plus (A1864) 64GB 深空灰色 移动联通电信4G手机', 'price': '4399.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀20 PRO 李现同款 4800万全焦段AI四摄 双光学防抖 麒麟980 全网通4G 8GB+128GB 冰岛幻境 拍照', 'price': '2889.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀10青春版 幻彩渐变 2400万AI自拍 全网通版4GB+64GB 渐变蓝 移动联通电信4G全面屏 双卡双待', 'price': '989.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '【新品抢购】Redmi Note8Pro 6400万全场景四摄 液冷游戏芯 4500mAh长续航 NFC 18W快充 红外遥控 6GB+128GB 冰翡翠 游戏智能 小米 红米', 'price': '1599.00'}
+{'shopname': '小米京东自营旗舰店', 'title': 'Redmi K20Pro 尊享版 骁龙855Plus 索尼4800万超广角三摄 AMOLED弹出式全面屏 12GB+512GB 冰川蓝 游戏智能 小米 红米', 'price': '3199.00'}
+{'shopname': '黑鲨京东自营官方旗舰店', 'title': '黑鲨游戏手机2 Pro 12GB+128GB 电鸣黑 骁龙855Plus UFS3.0 屏幕压感 极速触控 全面屏 双卡双待 全网通4G', 'price': '2999.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀V20 游戏手机 麒麟980芯片 魅眼全视屏 4800万深感相机 6GB+128GB 幻夜黑 移动联通电信4G全面屏', 'price': '2089.00'}
+{'shopname': '佳沪手机旗舰店', 'title': 'Apple 苹果 iPhone 11 手机 黑色 全网通 128GB', 'price': '5988.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀20i 3200万AI自拍 超广角三摄 全网通版6GB+64GB 渐变蓝 移动联通电信4G全面屏 双卡双待', 'price': '1199.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 8 (A1863) 64GB 深空灰色 移动联通电信4G手机', 'price': '3399.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '京品手机\n小米9 4800万超广角三摄 8GB+128GB全息幻彩蓝 骁龙855 全网通4G 双卡双待 水滴全面屏拍照智能游戏', 'price': '2799.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo iQOO Pro 12GB+128GB 竞速黑 高通骁龙855Plus手机 4800万AI三摄 44W超快闪充 5G全网通', 'price': '4098.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone XS Max (A2104) 256GB 深空灰色 移动联通电信4G手机 双卡双待', 'price': '8999.00'}
+{'shopname': 'realme京东自营官方旗舰店', 'title': 'realme X2 6400万超广角四摄 骁龙730G 30W VOOC4.0闪充 4000mAh长续航 8GB+128GB星图蓝 真我 游戏智能', 'price': '1899.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': '京品手机\nApple iPhone 7 (A1660) 128G 黑色 移动联通电信4G手机', 'price': '2999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI 畅享10 Plus 超高清全视屏前置悬浮式镜头4800万超广角AI三摄 4GB+128GB幻夜黑全网通双4G', 'price': '1499.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀20S 李现同款 3200万人像超级夜景 4800万超广角AI三摄 麒麟810旗舰级芯片 全网通版6GB+128GB 蝶羽白', 'price': '1899.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米9 Pro 5G 骁龙855Plus 30W无线闪充 12GB+512GB 钛银黑 双卡全网通 全面屏智能新品', 'price': '4299.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '京品手机\nRedmi K20Pro 骁龙855 索尼4800万超广角三摄 AMOLED弹出式全面屏 8GB+256GB 冰川蓝 游戏智能 小米 红米', 'price': '2699.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '京品手机\n荣耀8X 千元屏霸 91%屏占比 2000万AI双摄 4GB+64GB 魅海蓝 移动联通电信4G全面屏 双卡双待', 'price': '999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI 畅享 9S 6GB+64GB 幻夜黑 全网通 2400万超广角三摄珍珠屏大存储 移动联通电信4G 双卡双待', 'price': '1299.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI nova 5 Pro 前置3200万人像超级夜景4800万AI四摄麒麟980芯片8GB+128GB亮黑色全网通双4G', 'price': '2999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI P20 Pro 全面屏徕卡三摄游戏手机 6GB+128GB 极光色 全网通移动联通电信4G 双卡双待', 'price': '2799.00'}
+{'shopname': 'ROG京东自营官方旗舰店', 'title': 'ROG游戏手机2精英版 腾讯游戏深度定制 8GB+128GB 黑色 骁龙855Plus芯片 120Hz电竞屏 全网通双4G', 'price': '3499.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo iQOO 8GB+128GB 武士黑 高通骁龙855 44W超快闪充全面屏拍照手机 全网通4G', 'price': '2698.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI Mate20 X (5G) 7nm工艺5G旗舰芯片全面屏超大广角徕卡三摄8GB+256GB宝石蓝5G双模全网通', 'price': '6199.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': 'OPPO Reno2 4800万变焦四摄 视频防抖 6.5英寸阳光护眼全面屏 8GB+128GB 深海夜光 拍照游戏智能', 'price': '2999.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo Z5x 6GB+128GB 极光色 极点屏手机 5000mAh大电池 三摄拍照手机 移动联通电信全网通4G', 'price': '1598.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': '京品手机\nvivo iQOO Neo 6GB+128GB 碳纤黑 骁龙845处理器 4500mAh强悍续航 22.5W超快闪充 全网通4G', 'price': '1898.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI Mate 10 4GB+64GB 亮黑色 移动4G+手机 双卡双待', 'price': '1699.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo NEX 3 深空流光 8GB+256GB 无界瀑布屏 高通骁龙855Plus 6400万三摄 5G智慧旗舰新品 5G全网通', 'price': '5698.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': '京品手机\nvivo Z3 6GB+64GB 极光蓝 骁龙710处理器 全面屏游戏智能手机 移动联通电信全网通4G', 'price': '1148.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo Z5 6GB+128GB 全息幻彩 4800万超广角AI三摄手机 22.5W快充 4500mAh大电池 全网通4G', 'price': '1798.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀Play3 6.39英寸魅眼全视屏 4000mAh大电池 真4800万AI三摄 麒麟710F自研芯片 全网通4GB+64GB 幻夜黑', 'price': '999.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone XS (A2099) 64GB 金色 移动联通4G手机', 'price': '6499.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': '京品手机\nOPPO K3 高通骁龙710 升降摄像头 VOOC闪充 8GB+128GB 秘境黑 全网通4G 全面屏拍照游戏智能', 'price': '1799.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀畅玩8C两天一充 莱茵护眼 刘海屏 全网通版4GB+32GB 极光蓝 移动联通电信4G全面屏 双卡双待', 'price': '769.00'}
+{'shopname': 'Apple产品京东自营旗舰店', 'title': 'Apple iPhone 6s Plus (A1699) 128G 玫瑰金色 移动联通电信4G手机', 'price': '2799.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀9X PRO 麒麟810液冷散热 4000mAh超强续航 4800万超广角夜拍三摄 6.59英寸全网通8GB+128GB 幻影紫', 'price': '2199.00'}
+{'shopname': '小米京东自营旗舰店', 'title': 'Redmi Note7 4800万双摄千元机 满血骁龙660 18个月超长质保 4000mAh超长续航 6GB+64GB 镜花水月 游戏智能 小米 红米', 'price': '1099.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '京品手机\n三星 Galaxy S9+ 全视曲面屏 虹膜识别 6GB+128GB 谜夜黑 全网通 双卡双待 4G 自营', 'price': '3899.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo iQOO Pro 8GB+128GB 竞速黑 高通骁龙855Plus手机 4800万AI三摄 44W超快闪充 4G全网通', 'price': '3198.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI nova 5i 后置AI四摄 极点全面屏 前置2400万高清摄像头 8GB+128GB 苏音蓝 全网通双卡双待', 'price': '2199.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀8X Max 骁龙660 7.12英寸90%屏占比珍珠屏 6GB+64GB 魅海蓝 移动联通电信4G全面屏 双卡双待', 'price': '1189.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo X27 8GB+128GB大内存 印象夏日 4800万AI三摄全面屏拍照手机 移动联通电信全网通4G', 'price': '2698.00'}
+{'shopname': '魅族京东自营旗舰店', 'title': '魅族 16s Pro 骁龙855plus 全面屏拍照游戏手机 8GB+128GB 黑之谧镜 全网通移动联通电信4G 双卡双待', 'price': '2999.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI nova 5i Pro 前置3200万人像超级夜景4800万AI四摄极点全面屏6GB+128GB翡冷翠全网通双4G', 'price': '2199.00'}
+{'shopname': '努比亚京东自营旗舰店', 'title': '努比亚 nubia 红魔3S电竞游戏手机 8GB+128GB 银色风暴 骁龙855Plus UFS3.0 内置风扇 5000mAh大电池 全面屏', 'price': '2999.00'}
+{'shopname': '小米京东自营旗舰店', 'title': 'Redmi 7A 4000mAh超长续航 AI人脸解锁 骁龙8核 标配10W充电器 整机防泼溅 3GB+32GB 磨砂黑 游戏智能 小米 红米', 'price': '599.00'}
+{'shopname': 'realme京东自营官方旗舰店', 'title': 'realme Q 4800万超广角四摄 骁龙712AIE 20W VOOC闪充 4035mAh长续航 4GB+64GB光钻蓝 真我 游戏智能', 'price': '998.00'}
+{'shopname': '福气多多手机旗舰店', 'title': '【当天发】华为mate30Pro 手机 亮黑色 （8G+128G） 全网通【赠无线充套装】', 'price': '6099.00'}
+{'shopname': '小米京东自营旗舰店', 'title': 'Redmi K20 索尼4800万超广角三摄 AMOLED弹出式全面屏 第七代屏下指纹 6GB+128GB 冰川蓝 游戏智能 小米 红米', 'price': '1999.00'}
+{'shopname': '同达丰手机旗舰店', 'title': 'Apple 苹果 iphone 11 手机 黑色 全网通 128GB', 'price': '5978.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米MIX2S 骁龙845 AI感光双摄 四曲面陶瓷全面屏 白色 多功能 NFC 6GB+128GB 游戏智能拍照', 'price': '1799.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI P20 AI智慧徕卡双摄全面屏游戏手机 6GB+64GB 极光色 全网通移动联通电信4G 双卡双待', 'price': '2549.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '京品手机\n华为 HUAWEI 畅享9 Plus 4GB+64GB 幻夜黑 全网通 四摄超清全面屏大电池 移动联通电信4G 双卡双待', 'price': '1199.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米9SE 骁龙712 索尼4800万超广角三摄 5.97英寸舒适握感 全息幻彩蓝 8GB+128GB 游戏智能拍照', 'price': '1999.00'}
+{'shopname': 'realme京东自营官方旗舰店', 'title': '京品手机\nrealme X 4800万双摄 升降摄像头 屏下指纹 游戏智能手机 8GB+128GB朋克蓝 全网通双卡', 'price': '1699.00'}
+{'shopname': '佳沪手机旗舰店', 'title': 'Apple 苹果 iPhone 11Pro Max 手机 深空灰色 全网通 256GB', 'price': '10699.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '【千玺代言】华为新品 HUAWEI nova 4 极点全面屏手机 4800万超广角三摄 8GB+128GB 苏音蓝 全网通双卡双待', 'price': '2299.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀畅玩8A 6.09英寸珍珠全面屏 震撼大音量 3GB+32GB 幻夜黑 移动联通电信4G全面屏 双卡双待', 'price': '699.00'}
+{'shopname': '小米京东自营旗舰店', 'title': 'Redmi Note7pro 索尼4800万超清双摄 骁龙675 18个月超长质保 4000mAh超长续航 6GB+128GB 镜花水月 游戏智能 小米 红米', 'price': '1399.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI nova 3i 全面屏高清四摄游戏手机4GB+128GB 亮黑色 移动4G+ 移动联通电信4G双卡双待', 'price': '1399.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI 畅享8e 青春版 2GB+32GB全面屏 金色 全网通版 移动联通电信4G手机 双卡双待', 'price': '549.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '京品手机\n荣耀Magic2魔法手机 麒麟980AI智能芯片 超广角AI三摄 8GB+128GB 渐变黑 移动联通电信4G 双卡双待', 'price': '2399.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': 'OPPO Reno 4800万超清像素 NFC 超清夜景 6GB+128GB 星云紫 全网通 双卡双待 全面屏拍照智能游戏', 'price': '2199.00'}
+{'shopname': '中国移动手机官方旗舰店', 'title': '【现货速发-黑色128G低至5899】Apple 苹果 iPhone 11 全网通 手机 黑色 128GB', 'price': '5899.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': 'OPPO A11x 4800万四摄 5000mAh大电池 8GB+128GB 暮辰紫 全网通4G 全面屏拍照游戏智能', 'price': '1799.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '三星 Galaxy A60元气版 全面屏 拍照手机 6GB+64GB 丹宁黑 全网通 双卡双待 4G 自营', 'price': '1299.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '三星 Galaxy S10+ 骁龙855 4G手机 8GB+128GB 皓玉白 全网通 双卡双待 游戏', 'price': '6399.00'}
+{'shopname': '疆界互联旗舰店', 'title': '【现货】Apple苹果iphone11新品手机 红色 128GB', 'price': '5758.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米CC9 3200万美颜自拍 索尼4800万超清三摄 多功能NFC 4030mAh 白色恋人 6GB+128GB 游戏智能拍照', 'price': '1999.00'}
+{'shopname': '努比亚京东自营旗舰店', 'title': '努比亚 nubia 红魔3游戏手机 8GB+128GB 玄铁黑 骁龙855 内置风扇 5000mAh大电池 90Hz 全面屏拍照电竞', 'price': '2699.00'}
+{'shopname': '坚果手机京东自营旗舰店', 'title': '锤子（smartisan） 坚果 R1 6G+128GB 碳黑色 全面屏双摄 全网通4G手机 双卡双待 游戏', 'price': '1999.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '京品手机\nRedmi 7 4000mAh超长续航 骁龙632 1200万AI双摄 18个月超长质保 AI人脸解锁 4GB+64GB 亮黑色 游戏智能 小米 红米', 'price': '899.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '京品手机\n华为 HUAWEI Mate 20 麒麟980AI智能芯片全面屏超微距影像超大广角徕卡三摄6GB+128GB亮黑色全网通版双4G', 'price': '3699.00'}
+{'shopname': '魅族京东自营旗舰店', 'title': '魅族 16th Plus 全面屏游戏手机 8GB+128GB 静夜黑 全网通移动联通电信4G 双卡双待', 'price': '1988.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': 'OPPO Reno Z 4800万超清像素 超清夜景2.0 VOOC闪充 8GB+128GB 极夜黑 全网通4G 全面屏拍照智能游戏', 'price': '2199.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米MIX3 骁龙845AIE AI 双摄 磁动力滑盖全面屏 三星 AMOLED屏幕 黑色 8GB+128GB 游戏智能拍照', 'price': '2599.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '京品手机\n华为 HUAWEI nova 4e 3200万立体美颜AI超广角三摄珍珠屏6GB+128GB幻夜黑全网通版双4G', 'price': '1799.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '京品手机\n三星 Galaxy S10 骁龙855 4G手机 8GB+128GB 皓玉白 全网通 双卡双待 游戏', 'price': '5599.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI nova 5 前置3200万人像超级夜景4800万AI四摄40W超级快充8GB+128GB亮黑色全网通双4G', 'price': '2799.00'}
+{'shopname': '荣耀京东自营旗舰店', 'title': '荣耀Note10 全网通6G+64G 幻夜黑 移动联通电信4G全面屏手机 双卡双待 游戏手机', 'price': '1699.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo Y93s 4G+128G 极光蓝 水滴屏全面屏 移动联通电信全网通4G手机 双卡双待', 'price': '1098.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo S1 冰湖蓝 6GB+64GB 2480万AI高清自拍 超广角后置三摄拍照手机 全网通4G', 'price': '1298.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米CC9e 索尼4800万旗舰相机 3200万美颜自拍 4030mAh 屏幕指纹 白色恋人 6GB+64GB 游戏智能拍照', 'price': '1299.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo X27Pro 8GB+256GB大内存 白母贝 4800万AI三摄全面屏拍照手机 移动联通电信全网通4G', 'price': '3298.00'}
+{'shopname': '佳沪手机旗舰店', 'title': 'Apple 苹果 iPhone XR 手机 黑色 全网通 64GB', 'price': '4498.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米Max3 5500mAh充电宝级电量 AI双摄 全金属机身 骁龙八核处理器 黑色 6GB+128GB 游戏智能拍照', 'price': '1399.00'}
+{'shopname': '三星手机京东自营官方旗舰店', 'title': '京品手机\n三星 Galaxy A8s 全面屏手机 6GB+128GB 莓什么 全网通 双卡双待 4G 自营', 'price': '1799.00'}
+{'shopname': '联想手机京东自营官方旗舰店', 'title': '联想Z6 Pro 8GB+128GB 黑色 骁龙855 4800万AI四摄 4000mAh大电池 PC级液冷散热 游戏 全网通4G 双卡双待', 'price': '2098.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI 畅享9 4GB+64GB 幻夜黑 高清珍珠屏 AI长续航 全网通高配版 移动联通电信4G', 'price': '999.00'}
+{'shopname': '魅族京东自营旗舰店', 'title': '魅族 X8 准旗舰游戏拍照手机 4GB+64GB 亮黑 全网通移动联通电信4G手机 双卡双待', 'price': '899.00'}
+{'shopname': 'vivo官方旗舰店', 'title': 'vivo【至高优惠100】iQOO Neo骁龙845 4500mAh强悍续航4G全网通拍照手机 电光紫 6GB 128GB', 'price': '1898.00'}
+{'shopname': '佳沪手机旗舰店', 'title': 'Apple 苹果 iPhone 11Pro 手机 暗夜绿色 全网通 256GB', 'price': '9988.00'}
+{'shopname': '华为京东自营官方旗舰店', 'title': '华为 HUAWEI 麦芒 8 超广角AI三摄 高清珍珠屏 大存储 6GB+128GB 幻夜黑 全网通双4G', 'price': '1599.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': 'OPPO R17 Pro 全面屏拍照手机 6GB+128GB 凝光绿 全网通移动联通电信4G 双卡双待', 'price': '2199.00'}
+{'shopname': 'vivo官方旗舰店', 'title': 'vivo【至高优惠200】iQOO水滴全面屏超广角AI三摄高通骁龙855电竞游戏手机 武士黑 8GB 128GB', 'price': '2698.00'}
+{'shopname': '小米京东自营旗舰店', 'title': '小米Play 流光渐变AI双摄 6GB+128GB 黑色 移动4G+ 双卡双待 小水滴全面屏拍照游戏智能', 'price': '999.00'}
+{'shopname': 'OPPO京东自营官方旗舰店', 'title': '京品手机\nOPPO K1 光感屏幕指纹 水滴屏拍照手机 6GB+64GB 梵星蓝 全网通 移动联通电信4G 双卡双待', 'price': '1299.00'}
+{'shopname': '联想手机京东自营官方旗舰店', 'title': '联想K5 Pro 6GB+128GB 格调黑 千元影霸 1600万AI四摄 4050mAh大电池 全网通4G 双卡双待', 'price': '848.00'}
+{'shopname': 'vivo官方旗舰店', 'title': '【至高优惠50】vivo Z3 水滴全面屏 高通骁龙处理器 双摄拍照 4G全网通手机 极光蓝 6GB 64GB', 'price': '1148.00'}
+{'shopname': '飞利浦手机京东自营旗舰店', 'title': '飞利浦（PHILIPS）E171L 曜石黑 直板按键 移动联通 老人手机 老年功能机', 'price': '196.00'}
+{'shopname': '炜东电商旗舰店', 'title': 'Apple 苹果 iPhone xr 手机 双卡双待 黑色 全网通64G', 'price': '4488.00'}
+{'shopname': 'vivo京东自营官方旗舰店', 'title': 'vivo U3x 3GB+32GB 深湖蓝 5000mAh大电池 18W双引擎闪充 超广角AI三摄 骁龙665处理器 全网通4G', 'price': '799.00'}
